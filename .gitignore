@@ -1,3 +1,7 @@
 movielens
 venv
 __pycache__
+relatorio.aux
+relatorio.log
+relatorio.out
+relatorio.pdf

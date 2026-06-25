@@ -114,11 +114,10 @@ python charts.py simple_memory
 Relatório
 ----------
 
-O relatório final está em `relatorio.tex` (template ACM). Para compilar:
+O relatório final está em `relatorio/relatorio.tex` (template ACM). Para compilar:
 
 ```bash
-pdflatex relatorio.tex
-pdflatex relatorio.tex
+pdflatex relatorio/relatorio.tex
 ```
 
 O PDF gerado inclui tabelas de resultados, gráficos de visualização e análise
